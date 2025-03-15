@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TareaArboles")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+587ca577ccd8bc6a10a17c2f7fa93bf00872f979")]
 [assembly: System.Reflection.AssemblyProductAttribute("TareaArboles")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TareaArboles")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
