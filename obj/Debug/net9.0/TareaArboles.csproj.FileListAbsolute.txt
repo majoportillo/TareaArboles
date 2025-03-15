@@ -1,0 +1,15 @@
+D:\Tareas progra\TareaArboles\bin\Debug\net9.0\TareaArboles.exe
+D:\Tareas progra\TareaArboles\bin\Debug\net9.0\TareaArboles.deps.json
+D:\Tareas progra\TareaArboles\bin\Debug\net9.0\TareaArboles.runtimeconfig.json
+D:\Tareas progra\TareaArboles\bin\Debug\net9.0\TareaArboles.dll
+D:\Tareas progra\TareaArboles\bin\Debug\net9.0\TareaArboles.pdb
+D:\Tareas progra\TareaArboles\obj\Debug\net9.0\TareaArboles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tareas progra\TareaArboles\obj\Debug\net9.0\TareaArboles.AssemblyInfoInputs.cache
+D:\Tareas progra\TareaArboles\obj\Debug\net9.0\TareaArboles.AssemblyInfo.cs
+D:\Tareas progra\TareaArboles\obj\Debug\net9.0\TareaArboles.csproj.CoreCompileInputs.cache
+D:\Tareas progra\TareaArboles\obj\Debug\net9.0\TareaArboles.dll
+D:\Tareas progra\TareaArboles\obj\Debug\net9.0\refint\TareaArboles.dll
+D:\Tareas progra\TareaArboles\obj\Debug\net9.0\TareaArboles.pdb
+D:\Tareas progra\TareaArboles\obj\Debug\net9.0\TareaArboles.genruntimeconfig.cache
+D:\Tareas progra\TareaArboles\obj\Debug\net9.0\ref\TareaArboles.dll
+D:\Tareas progra\TareaArboles\obj\Debug\net9.0\TareaArboles.sourcelink.json
